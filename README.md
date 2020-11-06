@@ -47,7 +47,7 @@
   </tr>
    <tr>
     <th ></th>
-    <th></<th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">روش پژوهش و ارائه& 02 2 01-1322010</a></th>
+    <th></<th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">روش پژوهش و ارائه01-1322010</a></th>
     <th></th>
     <th></th>
     <th></th>  
