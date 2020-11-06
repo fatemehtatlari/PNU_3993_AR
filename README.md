@@ -1,8 +1,8 @@
 # PNU_3991_AR
 --------
  فاطمه تاتلاری
-----
-(https://github.com/fatemehtatlari) [حساب گیت هاب]
+---
+-[حساب گیت هاب](https://github.com/fatemehtatlari)
 
 - [رزومه](https://github.com/fatemehtatlari/fatemehtatlari.github.io)
 
@@ -14,7 +14,7 @@
 
 دروس کارشناسی
 
-[1322010_01روش پزوهش وارائه -]()
+[1322010_01 & 02 2روش پزوهش وارائه -](https://github.com/nazanin-amini/PNU_3991_AR/tree/main/Research-And-Presentation-Methods)
 <br>
 
 --------------
@@ -47,7 +47,7 @@
   </tr>
    <tr>
     <th ></th>
-    <th></<th ><a  href="https://github.com/fatemehtatlari/PNU_3991_AR/tree/main/Research-And-Presentation-Methods">روش پژوهش و ارائه01-1322010</a></th>
+    <th></<th ><a  href="https://github.com/fatemehtatlari/PNU_3991_AR/tree/main/Research-And-Presentation-Methods">روش پژوهش و ارائه& 02  01-1322010</a></th>
     <th></th>
     <th></th>
     <th></th>  
