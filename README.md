@@ -2,7 +2,7 @@
 --------
  فاطمه تاتلاری
 ---
--(https://github.com/fatemehtatlari)[ حساب گیت هاب]
+-(https://github.com/fatemehtatlari) [حساب گیت هاب]
 
 - [رزومه](https://github.com/fatemehtatlari/fatemehtatlari.github.io)
 
