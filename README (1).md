@@ -41,7 +41,7 @@
    <tr>
     <th ></th>
     <th ></th>
-    <th ><a href
+    <th ><a 
     <th></th>
     <th ></th>
     <th>یک شنبه</th>
@@ -49,10 +49,10 @@
    <tr>
      <th ></th>
      <th ></th>
-     <th></th>"https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines" >1روش پزوهش وارائه 322010</a></th>
+     <th></th>href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines" >1روش پزوهش وارائه 322010</a></th>
     <th></th>
-    <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin">طراحي واسط كاربر</a></th>
-    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و كامپيوتر</a></th>   
+    <th><a 
+    <th><a  
     <th>دوشنبه</th>
   </tr>
    <tr>
