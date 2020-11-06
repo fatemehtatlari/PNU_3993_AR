@@ -6,7 +6,7 @@
 
 - [رزومه](https://github.com/fatemehtatlari/fatemehtatlari.github.io)
 
-- [SOP](لینک انگیزه نامه)
+- [SOP]
 
 
 ------------------
