@@ -1,9 +1,8 @@
 # PNU_3991_AR
----------
-### اسم
+--------
  فاطمه تاتلاری
 ---
--(https://github.com/fatemehtatlari) [حساب گیت]
+-(https://github.com/fatemehtatlari)[ حساب گیت هاب]
 
 - [رزومه](https://github.com/fatemehtatlari/fatemehtatlari.github.io)
 
@@ -13,13 +12,13 @@
 ------------------
 ## Winter Semester Courses 1399/2020
 
-##دروس کارشناسی
+دروس کارشناسی
 
-[1روش پزوهش وارائه 322010]()
+[1322010_01روش پزوهش وارائه -]()
 <br>
 
 --------------
-## روز و ساعت ارائه دروس
+ روز و ساعت ارائه دروس
 
 <table style="width:100%">
   <tr>
