@@ -14,7 +14,7 @@
 
 دروس کارشناسی
 
-[1322010_01روش پزوهش وارائه -](https://github.com/fatemehtatlari/PNU_3991_AR/tree/main/Research-And-Presentation-Methods)
+[1322010_01 & 02 2روش پزوهش وارائه -](https://github.com/fatemehtatlari/PNU_3991_AR/tree/main/Research-And-Presentation-Methods)
 <br>
 
 --------------
@@ -47,7 +47,7 @@
   </tr>
    <tr>
     <th ></th>
-    <th></<th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">روش پژوهش و ارائه01-1322010</a></th>
+    <th></<th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">روش پژوهش و ارائه& 02 2 01-1322010</a></th>
     <th></th>
     <th></th>
     <th></th>  
