@@ -6,7 +6,7 @@
 
 - [رزومه](https://fatemehtatlari.github.io)
 
-- [SOP](https://github.com/fatemehtatlari/SOP)
+- [SOP](https://fatemehtatlari.github.io/SOP/)
 
 
 ------------------
