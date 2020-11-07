@@ -4,7 +4,7 @@
 ----
 - [حساب گیت هاب](https://github.com/fatemehtatlari)
 
-- [رزومه](https://github.com/fatemehtatlari.github.io)
+- [رزومه](https://fatemehtatlari.github.io)
 
 - [SOP]()
 
