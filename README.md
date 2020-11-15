@@ -8,7 +8,7 @@
 
 - [SOP](https://fatemehtatlari.github.io/SOP/)
 
-- [Certificated](https://fatemehtatlari.github.io/Certificate/)
+- [Certificated](https://fatemehtatlari.github.io/Certificates/)
 
 
 ------------------
