@@ -77,7 +77,7 @@
     <th>دوشنبه</th>
   </tr>
    <tr>
-    <th ></th>
+    <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship">1322029_01 کارآموزی </a></th>
     <th ></th>
     <th></th>
     <th></th>
