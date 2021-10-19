@@ -39,8 +39,8 @@
 
 [1322010_01 & 02 2روش پزوهش وارائه -](https://github.com/fatemehtatlari/PNU_3991_AR/tree/main/Research-And-Presentation-Methods)
 <br>
-[1322029_01 کارآموزی -] 
-
+[1322029_01 کارآموزی -](https://github.com/fatemehtatlari/PNU_3993_AR/tree/main) 
+<br>
 --------------
  روز و ساعت ارائه دروس
 
